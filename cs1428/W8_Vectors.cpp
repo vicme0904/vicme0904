@@ -1,7 +1,0 @@
-/*
-Array is a data structure that represents a collection of the same types of data.
-
-
-
-
-*/

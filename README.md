@@ -14,6 +14,8 @@
  
   ## 🦄 Technical Skills: 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c++"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/></code> 
+ 
 </p>
 
 <p align="left">
@@ -27,6 +29,7 @@
 ![vicme0904](https://github-readme-stats.vercel.app/api?username=vicme0904&theme=aura&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicme0904&theme=aura&layout=compact)
 
+
 <p align="left">
 
   ## 💌 If you'd like to create a project with me, just reach out! ⤵️
@@ -36,8 +39,6 @@
  
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white& link= www.linkedin.com/in/victória-rossener-mesa-a487a321a" alt="LinkedIn"/></a>
-
-</p>
 
 
 <!--- - 👋 Hi, I’m Victoria!

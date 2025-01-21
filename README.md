@@ -1,8 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="500px" align="right">
 
-## 💜 Hi, my name is Victoria! 💜
+##
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=6A0572&duration=3600&lines=💜+Hi!+My+name+is+Victoria!+💜" > 
+</p>
 <p align="left"> 
+ 
+##
+
  I am a Computer Science major student at Texas State University with one year of experience in software development. I have a passion for building reliable and scalable systems.
       
   Skilled in critical thinking, quick thinking, adaptability and teamwork, including programming. Proficient in working with databases, agile methodologies, and clean coding practices.

@@ -9,9 +9,9 @@
  
 ##
 
- I am a Computer Science major student at Texas State University with one year of experience in software development. I have a passion for building reliable and scalable systems.
+ I am a Computer Science major student at Texas State University with one year of experience in software development. I have a passion for videogames and fluffly animals.
       
-  Skilled in critical thinking, quick thinking, adaptability and teamwork, including programming. Proficient in working with databases, agile methodologies, and clean coding practices.
+  Skilled in critical thinking, quick thinking, adaptability and teamwork, including programming in C++ and Blueprints. Proficient in working with databases, agile methodologies, and clean coding practices.
       
   Strong analytical and problem-solving skills with a keen interest in collaborating within diverse teams and fostering innovation in corporate environments. Fluent in Portuguese and English.
 </p>
